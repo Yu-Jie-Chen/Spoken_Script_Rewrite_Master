@@ -77,3 +77,7 @@ Spoken_Script_Rewrite_Master/
 - 把一道错题整理成可讲、可复习的错题卡。[错题整理 · Mistake Question Studio](https://github.com/Yu-Jie-Chen/mistake-question-studio)
 - 从整份试卷定位失分原因，安排下一阶段训练。[试卷分析 · Exam Analysis Studio](https://github.com/Yu-Jie-Chen/exam-analysis-studio)
 - 根据课程录屏、逐字稿和纪要生成家长能读懂的反馈报告。[试听课反馈与学情诊断 · Trial Feedback Studio](https://github.com/Yu-Jie-Chen/trial-feedback-studio)
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。
