@@ -1,4 +1,4 @@
-# 贵阳初高中提分口播文案大师 X 老师 · Spoken Script Rewrite Master
+# 初高中提分口播文案大师 · Spoken Script Rewrite Master
 
 > 给一个教育话题，或者贴一段已有文案。从 15 个开头里挑一句你愿意对镜头说的，拿到一篇约 400 字、可以直接拍的抖音口播稿。
 
